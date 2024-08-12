@@ -1,0 +1,12 @@
+# Santana - Faial
+26, Santana, Boaventura, Faial
+30, Santana, Funchal, Canico, Faial
+53, Santana, Seixal, Santa Cruz, Portela, Boaventura, Faial
+# Santana - Rabacal
+18, Santana, Seixal, Santa Cruz, Rabacal
+24, Santana, Seixal, Rabacal
+35, Santana, Boaventura, Portela, Santa Cruz, Rabacal
+# Calheta - Canico
+51, Calheta, Rabacal, Santa Cruz, Seixal, Santana, Funchal, Canico
+55, Calheta, Rabacal, Santa Cruz, Seixal, Santana, Boaventura, Faial, Canico
+57, Calheta, Rabacal, Seixal, Santana, Funchal, Canico

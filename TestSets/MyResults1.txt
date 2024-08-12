@@ -1,0 +1,8 @@
+# Prazeres - Pedreira
+5, Prazeres, Gaula, Pedreira
+5, Prazeres, Tabua, Pedreira
+5, Prazeres, Pedreira
+# Gaula - Tabua
+5, Gaula, Pedreira, Tabua
+5, Gaula, Prazeres, Tabua
+9, Gaula, Pedreira, Prazeres, Tabua
